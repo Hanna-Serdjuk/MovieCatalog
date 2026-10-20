@@ -1,0 +1,2 @@
+<script setup>import AppIcon from './AppIcon.vue';defineProps({modelValue:String});defineEmits(['update:modelValue']);</script>
+<template><label class="search-bar"><AppIcon name="search"/><input :value="modelValue" @input="$emit('update:modelValue',$event.target.value)" placeholder="Find a film…" aria-label="Search films by title"><button v-if="modelValue" @click="$emit('update:modelValue','')" aria-label="Clear search" type="button"><AppIcon name="close"/></button><span v-else class="search-hint">BY TITLE</span></label></template>

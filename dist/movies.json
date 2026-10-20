@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "title": "Beyond the Quiet",
+    "genre": "Sci-Fi",
+    "year": 2025,
+    "rating": 8.8,
+    "duration": 142,
+    "tagline": "Somewhere beyond everything we know.",
+    "description": "A signal from an abandoned observatory draws a cartographer to a silent desert planet. As she follows its source, the maps she trusts begin to reveal places that should not exist.",
+    "director": "Elena Moreau",
+    "cast": [
+      "Maya Ellis",
+      "Jonas Reed"
+    ],
+    "language": "English",
+    "poster": "posters/1.svg"
+  },
+  {
+    "id": 2,
+    "title": "The Last Light",
+    "genre": "Drama",
+    "year": 2024,
+    "rating": 8.4,
+    "duration": 118,
+    "tagline": "Every ending holds a beginning.",
+    "description": "When a lighthouse keeper prepares for his final winter on the coast, an unexpected visitor asks him to keep the light burning for one more night.",
+    "director": "Samuel Hart",
+    "cast": [
+      "Theo Vale",
+      "Iris Morgan"
+    ],
+    "language": "English",
+    "poster": "posters/2.svg"
+  },
+  {
+    "id": 3,
+    "title": "Soft Landing",
+    "genre": "Romance",
+    "year": 2025,
+    "rating": 7.9,
+    "duration": 104,
+    "tagline": "Two strangers. One borrowed summer.",
+    "description": "A delayed flight brings a restless illustrator and a reserved musician to a sleepy coastal town. With no plans and nowhere to rush, they learn to listen to a different rhythm.",
+    "director": "Clara Bell",
+    "cast": [
+      "Nina Shaw",
+      "Oliver Lane"
+    ],
+    "language": "English",
+    "poster": "posters/3.svg"
+  },
+  {
+    "id": 4,
+    "title": "Wild Hours",
+    "genre": "Adventure",
+    "year": 2023,
+    "rating": 8.1,
+    "duration": 126,
+    "tagline": "Take the road that isn’t on the map.",
+    "description": "Three childhood friends reunite for a weekend in the mountains. When their planned route disappears beneath a landslide, their detour becomes the journey they needed.",
+    "director": "Adrian Wells",
+    "cast": [
+      "Luca Grey",
+      "Amelia Moss",
+      "Felix North"
+    ],
+    "language": "English",
+    "poster": "posters/4.svg"
+  },
+  {
+    "id": 5,
+    "title": "Nocturne",
+    "genre": "Thriller",
+    "year": 2025,
+    "rating": 8.6,
+    "duration": 131,
+    "tagline": "The city remembers everything.",
+    "description": "An archivist discovers that a recording from a forgotten radio station predicts a disappearance. Following the broadcast through the city, she has until dawn to change its ending.",
+    "director": "Mira Laurent",
+    "cast": [
+      "Eva Stone",
+      "Daniel Finch"
+    ],
+    "language": "French",
+    "poster": "posters/5.svg"
+  },
+  {
+    "id": 6,
+    "title": "Small Wonders",
+    "genre": "Drama",
+    "year": 2024,
+    "rating": 7.8,
+    "duration": 96,
+    "tagline": "A little ordinary. A little extraordinary.",
+    "description": "After inheriting a repair shop, a young engineer discovers that each broken object comes with a story. Restoring them slowly rebuilds her own connection to the neighborhood.",
+    "director": "Hugo Martin",
+    "cast": [
+      "Ada Flores",
+      "Noah Park"
+    ],
+    "language": "English",
+    "poster": "posters/6.svg"
+  },
+  {
+    "id": 7,
+    "title": "Blue Meridian",
+    "genre": "Adventure",
+    "year": 2025,
+    "rating": 8.3,
+    "duration": 136,
+    "tagline": "Some discoveries change the way home.",
+    "description": "A research vessel follows an unexplained current into a remote stretch of ocean. For its youngest crew member, the expedition becomes a test of trust and a search for belonging.",
+    "director": "Leonie Frost",
+    "cast": [
+      "Isla Rivers",
+      "Leo Nash"
+    ],
+    "language": "English",
+    "poster": "posters/7.svg"
+  },
+  {
+    "id": 8,
+    "title": "A Perfect Mess",
+    "genre": "Comedy",
+    "year": 2024,
+    "rating": 7.6,
+    "duration": 108,
+    "tagline": "Nothing goes to plan. Thankfully.",
+    "description": "A meticulous event planner must organize her sister’s wedding in three days, with a reluctant neighbor and a town that seems determined to improvise every detail.",
+    "director": "Sofia Reed",
+    "cast": [
+      "Lily West",
+      "Miles Avery"
+    ],
+    "language": "English",
+    "poster": "posters/8.svg"
+  },
+  {
+    "id": 9,
+    "title": "Paper Moons",
+    "genre": "Romance",
+    "year": 2023,
+    "rating": 8.0,
+    "duration": 112,
+    "tagline": "Some words are worth the wait.",
+    "description": "Two people exchange letters through a secondhand bookshop without ever meeting. When the shop announces its closure, they must decide whether their story belongs outside the pages.",
+    "director": "Juliette Rowan",
+    "cast": [
+      "Rose Arden",
+      "Elliot Blake"
+    ],
+    "language": "French",
+    "poster": "posters/9.svg"
+  },
+  {
+    "id": 10,
+    "title": "After the Rain",
+    "genre": "Drama",
+    "year": 2025,
+    "rating": 8.5,
+    "duration": 121,
+    "tagline": "There is a season for starting again.",
+    "description": "Returning to her hometown to sell the family greenhouse, a botanist finds a community garden on the edge of closure. One growing season changes what she thought she had left behind.",
+    "director": "Nora Ellis",
+    "cast": [
+      "Emma Dale",
+      "Ben Alder"
+    ],
+    "language": "English",
+    "poster": "posters/10.svg"
+  },
+  {
+    "id": 11,
+    "title": "Signal / Zero",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": 8.2,
+    "duration": 128,
+    "tagline": "If no one is listening, who answers?",
+    "description": "At a remote listening station, an operator receives a message in her own voice, sent twenty years in the future. Each reply changes something in the room around her.",
+    "director": "Leon Atlas",
+    "cast": [
+      "Aria Quinn",
+      "Jude Mason"
+    ],
+    "language": "English",
+    "poster": "posters/11.svg"
+  },
+  {
+    "id": 12,
+    "title": "Off the Record",
+    "genre": "Comedy",
+    "year": 2023,
+    "rating": 7.7,
+    "duration": 102,
+    "tagline": "The best stories never make the headlines.",
+    "description": "A small-town newspaper loses its editor on the day of a major local festival. Its unlikely staff try to publish one final edition, discovering their own stories along the way.",
+    "director": "Oscar Fern",
+    "cast": [
+      "Mae Carter",
+      "Finn Lewis"
+    ],
+    "language": "English",
+    "poster": "posters/12.svg"
+  }
+]
